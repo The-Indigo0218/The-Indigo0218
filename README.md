@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Studying systems engineer. 👨‍🎓<br>I'm Java developer. 💻<br>I live in Colombia. 📌<br>
+I'm studying Systems Engineer. 👨‍🎓<br>I'm Java developer. 💻<br>I live in Colombia. 📌<br>
 
 
 ## 🌐 Socials:
