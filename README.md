@@ -18,7 +18,7 @@ I'm Studying systems engineer. 👨‍🎓<br>I'm Java developer. 💻<br>I live
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=The-Indigo0218&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
