@@ -15,7 +15,7 @@ I'm studying Systems Engineer. 👨‍🎓<br>I'm Java developer. 💻<br>I live
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=The-Indigo0218&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo:
